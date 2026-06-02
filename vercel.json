@@ -1,3 +1,4 @@
-export default function VercelJson() {
-  return null
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "nextjs"
 }
