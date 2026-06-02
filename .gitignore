@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Next.js output
+.next/
+out/
+
+# Development
+.cache/
+.DS_Store
+*.local
+
+# Playwright
+.playwright-mcp/
+*.png
+*.md
+*.html
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+your-project-files/
+
+# Build
+dist/
+build/
